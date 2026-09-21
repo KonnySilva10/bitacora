@@ -6,3 +6,6 @@ ID: 2, Timestamp: 24/08/2026 1:30 - 2:20 pm, Autoría: Konny Silva Amaya, Objeto
 
 actividad 3
 ID: 3, Timestamp: 24/08/2026 2:20 - 2:40 pm, Autoría: Konny Silva Amaya, Objeto Técnico: A continuación, vamos a identificar y preparar nuestro entorno de trabajo con los conceptos y comandos fundamentales: se instalo git en el computador, Evidencia: https://drive.google.com/drive/folders/1k9rbtDiypJw7yA2EFPKKfhjoiAIA793X, Impedimentos: No se presentaron impedimentos, Plan de Acción: Se realizo la siguiente actividad
+
+actividad 4
+ID: 4, Timestamp: 24/08/2026 2:40- 5:00 pm, Autoría: konny silva amaya, Objeto Técnico: se realizo la actividad de contextualización e identificación de conocimientos necesarios para el aprendizaje, Evidencia: https://classroom.google.com/c/ODcwOTQyMjEwNzg4/a/ODY5MjMyNjg1NTk2/details, Impedimentos: Tuve una dificultad ya que en un momento me perdi de la explicación que estaba dando el instructor, y dure un momento donde no pude retomar el ejemplo que se estaba realizando en la clase., Plan de Acción: Prestar atencion al instructor y a lo que estaba explicando y retome nuevamente la actividad donde nos estaba enseñando
