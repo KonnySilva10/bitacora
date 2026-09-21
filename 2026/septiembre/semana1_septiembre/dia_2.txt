@@ -24,3 +24,6 @@ ID: 8, Timestamp: 11/09/2026 4:00 - 4:30 PM, Autoría: konny silva amaya, Objeto
 
 actividad 9
 ID: 9, Timestamp: 11/09/2026 4:30 - 5:10 PM, Autoría: konny silva amaya, Objeto Técnico: nos dispusimos a realizar el proyecto cada uno y luego nos reunimos para realizar las modificaciones del acuerdo de contrato, Evidencia: https://drive.google.com/file/d/1Fg60xZaTIJwE0v2KF_ulSKFZyff2rGBk/view?usp=drivesdk, Impedimentos: no se presento ningun impedimento, Plan de Acción: se paso a la siguiente actividad
+
+actividad 10
+ID: 10, Timestamp: 11/09/2026 5:10 - 5:50 PM, Autoría: konny silva amaya, Objeto Técnico: terminado eso se me me me fusiono las ramas de cada compañero donde cada uno realizo su respectiva parte del trabajo y se fusionaron las ramas., Evidencia: https://drive.google.com/file/d/1yeyQhMktKQf20GCoCTf9o1vASmHUmbRr/view?usp=drivesdk, Impedimentos: se nos presento un impedimento y es que nos salia un problema cuando fusionabamos las ultimas ramas develop decia que salia un conflicto, Plan de Acción: se corrigio el problema borrando el code los HEAD y demas lineas que hacian crear un conflicto en develop
