@@ -12,3 +12,6 @@ ID: 4, Timestamp: 07/09/2026 2:50 a 3:30 PM, Autoría: Konny Silva Amaya, Objeto
 
 actividad 5 
 ID: 5, Timestamp: 07/09/2026 3:30 - 4:00 PM, Autoría: Konny silva amaya, Objeto Técnico: Se creo una cuenta en github con nuestros datos, Evidencia: https://drive.google.com/file/d/1Z6hsu7z5vv_K6MCJW5V753HqnJHmBT-W/view?usp=drivesdk, Impedimentos: no se presentaron inconvenientes ni imprevistos., Plan de Acción: se paso a la siguiente actividad de la guia
+
+actividad 6
+ID: 6, Timestamp: 07/09/2026 4:00 - 4:40 PM, Autoría: Konny silva amaya, Objeto Técnico: Realizamos un ejercicio creando un repositorio en github y de hay lo pasamos a git bash y desarrollamos en el y luego lo mandamos a la nuebe nuevamente, Evidencia: https://drive.google.com/file/d/17jId7jph1Vnmv7_N-pKaCFCXX6OAfaze/view?usp=drivesdk, Impedimentos: se presento un inconveniente ya que no podiamos guardar el proyecto el github porque habia una cuenta ya ingresada en la base de datos y no autorizaba enviar las correcciones., Plan de Acción: se soluciono el problema quitando la cuenta que estaba vinculada con git hub en el sistema del computador
