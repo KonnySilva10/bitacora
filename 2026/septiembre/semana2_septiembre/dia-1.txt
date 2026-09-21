@@ -15,3 +15,6 @@ ID: 5, Timestamp: 14/09/2026 3:30 - 4:00 PM, Autoría: Konny silva amaya, Objeto
 
 actividad 6
 ID: 6, Timestamp: 14/09/2026 4:00 - 4:40 PM, Autoría: Konny silva amaya, Objeto Técnico: se realizo una actividad utilizando la bitacora de un compañero. Se repartieron las bitacoras para que cada integrante realizara la parte correspondiente desde su computador, Evidencia: https://drive.google.com/file/d/1-eL_iNGBxXTbjmZ52j9bofQNm0-GGnY/view?usp=drivesdk, Impedimentos: al momento de realizar la parte correspondiente me equivoque haciendo el trabajo en la carpeta incorrecta y me toco crear una nueva y pasar la rama y mi trabajo para alla, Plan de Acción: corregir el error previsto y organizar los archivos antes de continuar con el trabajo para evitar inconvenientes durante el proceso
+
+actividad 7
+ID: 7, Timestamp: 14/09/2026 4:40 - 6:30 PM, Autoría: Konny Silva Amaya, Objeto Técnico: finalmente, se subieron a github las ramas que contenian la actividad realizada por cada integrante, Evidencia: https://drive.google.com/file/d/1oVTkCA7fDHNpezoCb1PMjQGcedsT9KRV/view?usp=drivesdk, Impedimentos: no se presentaron impedimentos, Plan de Acción: continuar utilizando correctamente las ramas y verificando en github los cambios realizados hayan sido subidos correctamente
