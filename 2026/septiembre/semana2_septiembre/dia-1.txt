@@ -1,2 +1,5 @@
 actividad 1
 ID: 1, Timestamp: 14/09/2026 1:00 a 2:20 PM, Autoría: Konny Silva Amaya, Objeto Técnico: fortalecer los conocimientos adquiridos en la actividad de transferencia y corregir posibles errores., Evidencia: https://drive.google.com/file/d/18tGTXTH7plzFDs64QflmYWXVy0oVTIRA/view?usp=drivesdk, Impedimentos: no se presentaron impedimentos, Plan de Acción: continuar aplicando las recomendaciones dadas durante la retroalimentacion en las proximas actividades.
+
+actividad 2
+ID: 2, Timestamp: 14/09/2026 2:20 a 2:35 PM, Autoría: Konny Silva Amaya, Objeto Técnico: luego se escogio al grupo 5 para que pasara al computador general a mostrar las evidencias correspondientes al trabajo realizado, Evidencia: https://drive.google.com/file/d/1ZOkGnQYlwr6B-oDG2vTOf-lkuh2f_oj0/view?usp=drivesdk, Impedimentos: no se presentaron impedimentos, Plan de Acción: continuar organizando y presentando las evidencias de manera clara
