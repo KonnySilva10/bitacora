@@ -12,3 +12,6 @@ ID: 4, Timestamp: 14/09/2026 2:50 a 3:30 PM, Autoría: Konny Silva Amaya, Objeto
 
 actividad 5
 ID: 5, Timestamp: 14/09/2026 3:30 - 4:00 PM, Autoría: Konny silva amaya, Objeto Técnico: posteriormente, cada aprendiz se reunio con el grupo correspondiente para realizar un nuevo trabajo colaborativo, Evidencia: https://drive.google.com/file/d/1-eL_iNGBxXTbjmZ52j9bofQNm0-GGnY/view?usp=drivesdk, Impedimentos: no se presentaron impedimentos, Plan de Acción: oorganizar las tareas entre los integrantes y desarrollar el trabajo de acuerdo con las indicaciones del instructor
+
+actividad 6
+ID: 6, Timestamp: 14/09/2026 4:00 - 4:40 PM, Autoría: Konny silva amaya, Objeto Técnico: se realizo una actividad utilizando la bitacora de un compañero. Se repartieron las bitacoras para que cada integrante realizara la parte correspondiente desde su computador, Evidencia: https://drive.google.com/file/d/1-eL_iNGBxXTbjmZ52j9bofQNm0-GGnY/view?usp=drivesdk, Impedimentos: al momento de realizar la parte correspondiente me equivoque haciendo el trabajo en la carpeta incorrecta y me toco crear una nueva y pasar la rama y mi trabajo para alla, Plan de Acción: corregir el error previsto y organizar los archivos antes de continuar con el trabajo para evitar inconvenientes durante el proceso
