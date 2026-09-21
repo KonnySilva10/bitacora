@@ -2,3 +2,4 @@ BITACORA SEMANA 5 DE AGOSTO
 
 ID:1 ; Timestamp: 31/08/2026 1:00 a 1:05 PM; Autoria: Konny Silva Amaya; Objeto Técnico: se leyo la guia de git-flow, en la actividad de reflexion inicial sobre una actividad de simulacion.; Evidencia de Ejecución: https://drive.google.com/file/d/1DJGLEvw5_4JwcE3HshXop1zx6vbxhT2H/view?usp=drivesdk ; Impedimentos / Blockers: No se presentaron impedimentos.; Plan de Acción: se paso a la siguiente actividad
 
+​ID:2 ; Timestamp: 31/08/2026 1:05 a 1:12 PM; Autoria: Konny Silva Amaya; Objeto Técnico: se realizo la activada de simulacro donde una ruleta que hizo el instructor escogia quien iba a equipo A y quien a equipo B; Evidencia de Ejecución: https://drive.google.com/file/d/1DJGLEvw5_4JwcE3HshXop1zx6vbxhT2H/view?usp=drivesdk ; Impedimentos / Blockers: no se presentaron impedimentos; Plan de Acción: se paso
