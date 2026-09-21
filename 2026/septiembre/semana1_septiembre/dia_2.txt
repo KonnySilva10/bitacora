@@ -12,3 +12,7 @@ ID: 4, Timestamp: 11/09/2026 1:50 a 2:20 PM, Autoría: Konny Silva Amaya, Objeto
 
 actividad 5
 ID: 5, Timestamp: 11/09/2026 2:20 - 3:00 PM, Autoría: Konny silva amaya, Objeto Técnico: en ella creamos una pequeña biografia de nosotros, Evidencia: https://drive.google.com/file/d/1mqWomMJHIajz4mWJbnqQMDDbDA6ddUVv/view?usp=drivesdk, Impedimentos: no se presento ningun impedimento, Plan de Acción: se paso a la siguiente actividad
+
+actividad 6
+ID: 6, Timestamp: 11/09/2026 3:00 - 3:30 PM, Autoría: Konny silva amaya, Objeto Técnico: luego esa biografia quedara en el perfil de nuestra cuenta, Evidencia: https://drive.google.com/file/d/1x0CCTBha08g7V0hONNli-7ppaXRvVdNE/view?usp=drivesdk, Impedimentos: se me presento el inconveniente de no crear el repositorio con el nombre de usuario correcto y no se pasaba la biografia al perfil, Plan de Acción: se corrigieron los nombres y ya aparecio luego en el perfil la biografia
+
