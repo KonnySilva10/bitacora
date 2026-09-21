@@ -1,2 +1,5 @@
 actividad 1
 ID: 1, Timestamp: 24/08/2026 1:00 - 1:30 pm, Autoría: Konny Silva Amaya, Objeto Técnico: Realice una exposicion con mis compañeros sobre los manejos de la terminal, con osorio, adrian steven, Keinner y Darwin steven, Evidencia: https://drive.google.com/drive/folders/1k9rbtDiypJw7yA2EFPKKfhjoiAIA793X, Impedimentos: no se presentaron impediminetos, Plan de Acción: se realiza a la siguiente actividad
+
+actividad 2
+ID: 2, Timestamp: 24/08/2026 1:30 - 2:20 pm, Autoría: Konny Silva Amaya, Objeto Técnico: Se realizo una lluvia de ideas con los compañeros sobre El Multiverso de los Archivos y la Máquina del Tiempo, Evidencia: https://drive.google.com/drive/folders/1k9rbtDiypJw7yA2EFPKKfhjoiAIA793X, Impedimentos: no se presentaron impediminetos, Plan de Acción: Se realiza la siguiente actividad
