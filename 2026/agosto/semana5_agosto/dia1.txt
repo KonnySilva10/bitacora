@@ -1,43 +1,63 @@
 BITACORA SEMANA 5 DE AGOSTO
-
+Actividad 1
 ID:1 ; Timestamp: 31/08/2026 1:00 a 1:05 PM; Autoria: Konny Silva Amaya; Objeto Técnico: se leyo la guia de git-flow, en la actividad de reflexion inicial sobre una actividad de simulacion.; Evidencia de Ejecución: https://drive.google.com/file/d/1DJGLEvw5_4JwcE3HshXop1zx6vbxhT2H/view?usp=drivesdk ; Impedimentos / Blockers: No se presentaron impedimentos.; Plan de Acción: se paso a la siguiente actividad
 
+Actividad 2
 ​ID:2 ; Timestamp: 31/08/2026 1:05 a 1:12 PM; Autoria: Konny Silva Amaya; Objeto Técnico: se realizo la activada de simulacro donde una ruleta que hizo el instructor escogia quien iba a equipo A y quien a equipo B; Evidencia de Ejecución: https://drive.google.com/file/d/1DJGLEvw5_4JwcE3HshXop1zx6vbxhT2H/view?usp=drivesdk ; Impedimentos / Blockers: no se presentaron impedimentos; Plan de Acción: se paso
 
+Actividad 3
 ​ID:3 ; Timestamp: 31/08/2026 1:12 a 1:15 PM; Autoria: Konny Silva Amaya; Objeto Técnico: cada persona se reunio con su grupo y el equipo A tenia que tomar 10 hojas de papel dobladas por la mitad (como si fueran carpetas). Donde escribian en una "PARCHE CRÍTICO - SISTEMA SALVADO". Y en las demas 9 "CODIGO BASURA - PERDISTE EL TIEMPO"; Evidencia de Ejecución: https://drive.google.com/file/d/1DJGLEvw5_4JwcE3HshXop1zx6vbxhT2H/view?usp=drivesdk ; Impedimentos / Blockers: no se presentaron impedimentos; Plan de Acción: se paso a la siguiente actividad
 
+Actividad 4
 ID:4 ; Timestamp: 31/08/2026 1:12 a 1:15 PM; Autoria: Konny Silva Amaya; Objeto Técnico: despues de 3 min el equipo A dejaba las 10 hojas dobladas en la mesa. Y el equipo B las cogia y en un tiempo de 60 seg tenia que encontrar la que decia sistema salvado, sino perdian.; Evidencia de Ejecución: https://drive.google.com/file/d/1FVEyfpk9NADbjZTA-eSAszp1navSxvv/view?usp=drivesdk ; Impedimentos / Blockers: no se presentaron impedimentos; Plan de Acción: se paso a la siguiente actividad
 
+Actividad 5
 ID:5 ; Timestamp: 31/08/2026 1:15 a 1:17 PM; Autoria: Konny Silva Amaya; Objeto Técnico: el equipo ganador fue el equipo A ya que el equipo B no logro encontrar la carpeta buena en el tiempo de 60 seg; Evidencia de Ejecución: https://drive.google.com/file/d/1FVEyfpk9NADbjZTA-eSAszp1navSxvv/view?usp=drivesdk ; Impedimentos / Blockers: no se presentaron impedimentos; Plan de Acción: se paso a la siguiente actividad
 
+Actividad 6
 ID:6 ; Timestamp: 31/08/2026 1:17 a 1:30 PM; Autoria: Konny Silva Amaya; Objeto Técnico: se paso a la siguiente actividad que fue actividad de contextualizacion. Se inicia con la explicaicon o ejemplo del instructor.; Evidencia de Ejecución: https://drive.google.com/file/d/13ikUpuEeBYsBxClMvIe0sLXbYmKWfJvj/view ; Impedimentos / Blockers: no se presentaron impedimentos; Plan de Acción: se paso a la siguiente actividad
 
+Actividad 7
 ​ID:7 ; Timestamp: 31/08/2026 1:30 a 2:10 PM; Autoria: Konny Silva Amaya; Objeto Técnico: se realizo el paso 1 estado inicial. Se inicializo el repositorio git, se creo la rama develop y se creo tambien el archivo notas.txt; Evidencia de Ejecución: https://drive.google.com/file/d/13ikUpuEeBYsBxClMvIe0sLXbYmKWfJvj/view ; Impedimentos / Blockers: la dificultad que se me presento es que no me dejaba crear la rama de develop y me quede atrasada en las instrucciones siguientes del instructor; Plan de Acción: me quede en descanso para solucionar y del donde se encontraban mis compañeros
 
+Actividad 8
 ​ID:8 ; Timestamp: 31/08/2026 2:10 a 2:15 PM; Autoria: Konny Silva Amaya; Objeto Técnico: luego de eso se agrega el contenido a la rama principal y la rama de desarrollo con git add, y git commit -m agregando "inicio de la presentacion de notas" luego checkout develop y git merge main.; Evidencia de Ejecución: https://drive.google.com/file/d/13ikUpuEeBYsBxClMvIe0sLXbYmKWfJvj/view ; Impedimentos / Blockers: en esta parte no se presentaron imprevistos para seguir los pasos; Plan de Acción: se paso al siguiente paso
 
+Actividad 9
 ID:9 ; Timestamp: 31/08/2026 2:15 a 2:20 PM; Autoria: Konny Silva Amaya; Objeto Técnico: En el paso 2, se aplico git flow donde nos aseguramos de estar en develop utilizando git checkout develop y se crea la rama de feature con git checkout -b feature/agregar-glosario; Evidencia de Ejecución: https://drive.google.com/file/d/13ikUpuEeBYsBxClMvIe0sLXbYmKWfJvj/view ; Impedimentos / Blockers: no se encontraron imprevistos para seguir estos pasos.; Plan de Acción: se paso al siguiente paso
 
+Actividad 10
 ​ID:10 ; Timestamp: 31/08/2026 2:20 a 2:35 PM; Autoria: Konny Silva Amaya; Objeto Técnico: En el paso 3. de desarrollo de la nueva funcionalidad abre el archivo de nota.txt con nano y se le añade el nuevo contenido; Evidencia de Ejecución: https://drive.google.com/file/d/13ikUpuEeBYsBxClMvIe0sLXbYmKWfJvj/view ; Impedimentos / Blockers: no se encontraron imprevistos para seguir los pasos; Plan de Acción: se paso al siguiente paso
 
+Actividad 11
 ​ID:11 ; Timestamp: 31/08/2026 2:35 a 2:40 PM; Autoria: Konny Silva Amaya; Objeto Técnico: en el paso 4 luego de agregar el contenido guardamos las modificaciones y damos git add nota.txt y en commit -m añadimos "docs(notas) añadir glosario de comandos git esenciales"; Evidencia de Ejecución: https://drive.google.com/file/d/13ikUpuEeBYsBxClMvIe0sLXbYmKWfJvj/view ; Impedimentos / Blockers: el imprevisto que tuve fue que en el texto del commit coloque docs y un texto que no era de modo imperactivo; Plan de Acción: se corrigio el texto del commit por el qu ese encontraba en l y no hubo ningun problema mas
 
+Actividad 12
 ID:12 ; Timestamp: 31/08/2026 2:40 a 2:50 PM; Autoria: Konny Silva Amaya; Objeto Técnico: en el paso 5 cierre de funcionalidad ya se a redactado y guardado el archico, nos regresamos a la rama develop utilizando git checkout develop; Evidencia de Ejecución: https://drive.google.com/file/d/13ikUpuEeBYsBxClMvIe0sLXbYmKWfJvj/view ; Impedimentos / Blockers: no se presentaron imprevisto para seguir los pasos; Plan de Acción: se paso al siguiente paso
 
+Actividad 13
 ID:13 ; Timestamp: 31/08/2026 2:50 a 3:00 PM; Autoria: Konny Silva Amaya; Objeto Técnico: se fuciona develop con feature y se elimina la rama temporal de feaute con git branch -d, luego verificamos con git log --oneline; Evidencia de Ejecución: https://drive.google.com/file/d/13ikUpuEeBYsBxClMvIe0sLXbYmKWfJvj/view ; Impedimentos / Blockers: no se presentaron imprevistos para seguir los pasos; Plan de Acción: se paso al siguiente paso
 
+Actividad 14
 ​ID:14 ; Timestamp: 31/08/2026 3:30 a 4:00 PM; Autoria: Konny Silva Amaya; Objeto Técnico: Los compañeros gabriela, sharon, camilo, jhoan y darwin realizaron una presentacion sobre los conceptos basicos de git en un tiempo estimado de 30 min y escogieron unos compañeros para un juego; Evidencia de Ejecución: https://drive.google.com/file/d/1TK9cOkWDN5zYdFMORbDoA01S47GFIvew ; Impedimentos / Blockers: no se presentaron imprevistos en la actividad; Plan de Acción: se paso a la siguiente actividad
 
+Actividad 15
 ​ID:15 ; Timestamp: 31/08/2026 4:00 a 4:10 PM; Autoria: Konny Silva Amaya; Objeto Técnico: se realizo la actividad de apropiacion donde al inicio el instructor nos dio un ejemplo de como realizar la actividad; Evidencia de Ejecución: https://drive.google.com/file/d/1K3w8mann4LHjGL3dWoLXI6oBYtTXzBUOiVew ; Impedimentos / Blockers: no se presentaron imprevistos; Plan de Acción: se pasa a la actividad de demostracion de nuestros conocimientos de la actividad
 
+Actividad 16
 ID:16 ; Timestamp: 31/08/2026 4:10 a 4:15 PM; Autoria: Konny Silva Amaya; Objeto Técnico: realizamos la actividad de demostración paso 1. donde se creo una rama nueva con git branch -b llamada feature/comandos-git; Evidencia de Ejecución: https://drive.google.com/file/d/1K3w8mann4LHjGL3dWoLXI6oBYtTXzBUOiVew ; Impedimentos / Blockers: no se presentaron imprevistos; Plan de Acción: se paso al siguiente paso
 
+Actividad 17
 ​ID:17 ; Timestamp: 31/08/2026 4:15 a 4:30 PM; Autoria: Konny Silva Amaya; Objeto Técnico: al ingresar en la rama se escribe nano para poder escribir en el archivo nota.txt y escribi contenido sobre los comandos aprendidos.; Evidencia de Ejecución: https://drive.google.com/file/d/1K3w8mann4LHjGL3dWoLXI6oBYtTXzBUOiVew ; Impedimentos / Blockers: no se presentaron imprevistos; Plan de Acción: se paso al siguiente paso
 
+Actividad 18
 ​ID:18 ; Timestamp: 31/08/2026 4:30 a 5:00 PM; Autoria: Konny Silva Amaya; Objeto Técnico: ya que se presento un error creamos otra carpeta llamada correcion al ingresar a ella se escribio nano para entrar al contenido a corregir la falta ortografica; Evidencia de Ejecución: https://drive.google.com/file/d/1K3w8mann4LHjGL3dWoLXI6oBYtTXzBUOiVew ; Impedimentos / Blockers: no se presentaron imprevistos; Plan de Acción: se paso al siguiente paso
 
+Actividad 19
 ​ID:19 ; Timestamp: 31/08/2026 5:00 a 5:30 PM; Autoria: Konny Silva Amaya; Objeto Técnico: al modificar el archico lo pre guardamos con git add y luego con commit -m colocamos fix que es el que nos da a entender que se realizo una correcion a un error; Evidencia de Ejecución: https://drive.google.com/file/d/1K3w8mann4LHjGL3dWoLXI6oBYtTXzBUOiVew ; Impedimentos / Blockers: no se presentaron imprevistos; Plan de Acción: se paso al siguiente paso
 
+Actividad 20
 ​ID:20 ; Timestamp: 31/08/2026 5:30 a 6:00 PM; Autoria: Konny Silva Amaya; Objeto Técnico: terminada la correcion y guardado volvemos a la rama feature/comandos-git y en ella fusionamos la rama correcion; Evidencia de Ejecución: https://drive.google.com/file/d/1K3w8mann4LHjGL3dWoLXI6oBYtTXzBUOiVew ; Impedimentos / Blockers: no se presentaron imprevistos; Plan de Acción: se paso al siguiente paso
 
+Actividad 21
 ​ID:21 ; Timestamp: 31/08/2026 6:00 a 6:30 PM; Autoria: Konny Silva Amaya; Objeto Técnico: luego vamos a la rama develop y en ella realizamos lo mismo y fusionamos la rama de feature/comandos-git con develop y eliminamos la rama feature/comandos-git y ya nos queda el proyecto realizado.; Evidencia de Ejecución: https://drive.google.com/file/d/1K3w8mann4LHjGL3dWoLXI6oBYtTXzBUOiVew ; Impedimentos / Blockers: no se presentaron imprevistos; Plan de Acción: se paso a la siguiente actividad
