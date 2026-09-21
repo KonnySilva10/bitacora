@@ -1,2 +1,5 @@
 actividad 1
 ID: 1, Timestamp: 11/09/2026 1:00 a 1:20 PM, Autoría: Konny Silva Amaya, Objeto Técnico: el instructor nos dio una pequeña retroalimentación por no terminar la guia de la clase pasada, Evidencia: https://drive.google.com/file/d/1UvU9Q4D4t8GqXgkBzKqdQ9LFJE24hYa/view?usp=drivesdk, Impedimentos: no se presento ningun impedimento, Plan de Acción: se paso a la siguiente actividad
+
+actividad 2
+ID: 2, Timestamp: 11/09/2026 1:20 a 1:35 PM, Autoría: Konny Silva Amaya, Objeto Técnico: creamos una foto de perfil para git hub y la editamos y pegamos en el perfil de nosotros, Evidencia: https://drive.google.com/file/d/1UvU9Q4D4t8GqXgkBzKqdQ9LFJE24hYa/view?usp=drivesdk, Impedimentos: no se presento ningun impedimento, Plan de Acción: se paso a la siguiente actividad
