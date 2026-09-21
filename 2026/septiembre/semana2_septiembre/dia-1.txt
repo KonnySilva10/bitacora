@@ -9,3 +9,6 @@ ID: 3, Timestamp: 14/09/2026 2:35 a 2:50 PM, Autoría: konny silva amaya, Objeto
 
 actividad 4
 ID: 4, Timestamp: 14/09/2026 2:50 a 3:30 PM, Autoría: Konny Silva Amaya, Objeto Técnico: los demas compaleros del grupo 4 realizaron la parte que les correspondia del trabajo y firmaron el documento donde quedaron registrados los acuerdos modificados, Evidencia: https://drive.google.com/file/d/14_AXvx6OQlbyqdyGXQ3J5pVLYuK19Onh/view?usp=drivesdk, Impedimentos: no se presentaron impedimentos, Plan de Acción: conservar el documento actualizado y cumplir con los acuerdos establecidos por el grupo
+
+actividad 5
+ID: 5, Timestamp: 14/09/2026 3:30 - 4:00 PM, Autoría: Konny silva amaya, Objeto Técnico: posteriormente, cada aprendiz se reunio con el grupo correspondiente para realizar un nuevo trabajo colaborativo, Evidencia: https://drive.google.com/file/d/1-eL_iNGBxXTbjmZ52j9bofQNm0-GGnY/view?usp=drivesdk, Impedimentos: no se presentaron impedimentos, Plan de Acción: oorganizar las tareas entre los integrantes y desarrollar el trabajo de acuerdo con las indicaciones del instructor
