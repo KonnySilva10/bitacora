@@ -1,2 +1,5 @@
 activdad 1
 ID: 1, Timestamp: 07/09/2026 1:00 a 2:20 PM, Autoría: Konny Silva Amaya, Objeto Técnico: Se realizó la lectura de la guia y se realizo individualmente el diseñar graficamente una tienda online., Evidencia: https://drive.google.com/file/d/1BMs-Q3rVlavKgtKarfe0G2m034e5wIy2/view?usp=drivesdk, Impedimentos: no se puedo terminar de realizar todo el diseño por el poco tiempo y mucha demanda de trabajo, Plan de Acción: se paso a la siguiente actividad porque con eso reflexionamos que era muy poco tiempo para poder terminar el diseño.
+
+actividad 2
+ID: 2, Timestamp: 07/09/2026 2:20 a 2:35 PM, Autoría: Konny Silva Amaya, Objeto Técnico: Se crearon grupos y en ellos teniamos que escoger una hoja maestra, y terminar el diseño de la pagina online, Evidencia: https://drive.google.com/file/d/1iQY73yj-MITf1C7VZSS68X-KSj2xGapE/view?usp=drivesdk, Impedimentos: si hubieron inconveniente como falta de espacio para que cada uno trabajara en su parte del trabajo y no se termino de hacer el diseño bien, Plan de Acción: se paso a la siguiente actividad porque con eso reflexionamos que era muy poco tiempo para poder terminar el diseño y que era dificil trabajar asi.
